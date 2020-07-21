@@ -21,35 +21,69 @@ Any action in [SYSTEM] that takes more than a **mundane** amount of skill or luc
 | **4-5** | **Difficult** | Requires some exertion or luck to accomplish. |
 | **6-7** | **Very Difficult** | Very hard for the untrained to accomplish. Experts will not have much of a challenge. |
 | **8-9** | **Extremely Difficult** | Even experts will have a tough time succeeding. Almost impossible for the inexperienced.|
-| **10** | **Near-Impossible** | Only masters at this task or the lucky will succeed. |
+| **10** | **Near-Impossible** | Only masters at this task or the very lucky will succeed. |
+
+Read the [Skills](#skills) section below for more information about **skills** and their effect on gameplay.
 
 > **Note:** Difficulty levels of 1 are not possible as a roll of 1 is an **automatic failure.** If something is a difficulty of 1 it should be considered a **mundane task.**
 
 ### Advantage and Disadvantage
 
 Some dice rolls in [SYSTEM] will be made with **advantage** or **disadvantage**.
-- Rolls made with **advantage** roll the specified number of **d10s** and take the **highest** value as their roll.
-- Rolls with **disadvantage** roll the specified number of **d10s** and take the **lowest** value as their roll.
-
-Advantage and disadvantage are denoted as a number of **additional** dice to roll. For example:
-
-- Rolling at **1d10 advantage** means that a player rolls **2d10** (1d10 normal + 1d10 advantage) and takes the **highest** value.
-- Rolling at **2d10 disadvantage** means that a player rolls **3d10** (1d10 normal + 2d10 disadvantage) and takes the **lowest** value.
+- Rolls made with **advantage** roll **3d10** and take the **highest** value as their roll.
+- Rolls with **disadvantage** roll **3d10** and take the **lowest** value as their roll.
 
 Several factors can determine if a roll is made with advantage or disadvantage and how many dice are rolled. These factors are generally up to the GM, but can be:
 
-- A character's proficiency in an action. See the **[Skills & Abilities](#skills-and-abilities)** section for more information.
-- If the character has been physically restrained or otherwise disabled.
+#### Advantage
 - If a character has been augmented in their abilities or skills.
 - Magical, technological, or divine intervention.
-- A character's physical or mental status.
-- Effects from any actions or abilities targeted at the player.
-- Effects another player or in-game entity has on the rolling player.
 
-Additionally, advantage and disadvantage **cancel out**. Each die of advantage cancels out a corresponding die of disadvantage and vice-versa. Some examples of this are:
+#### Disadvantage
+- If the character has been physically restrained or otherwise disabled.
+- If a character has been cursed, charmed, or otherwise rendered mentally incapacitated.
 
-- A character that is skilled at fighting (1d10 advantage) but who has been forced to fight with their off-hand (1d10 disadvantage). In this case they would roll **1d10** to perform any combat-based actions.
-- A character is an expert at escaping prison (3d10 advantage) but has had their hands tied (1d10 disadvantage). In this case they would roll at **2d10 advantage** to attempt to escape from a prison while their hands are tied.
+Players or non-player characters can also use abilities on their companions or enemies that grant **advantage** or **disadvantage** depending on the ability's effect(s).
+
+Additionally, advantage and disadvantage **cancel out**, meaning that a player that would normally have **advantage** but has now been given **disadvantage** rolls **1d10** as if no effects are present.
+
+> **Note:** Some abilities can overcome this cancelling-out effect and force a player to roll with **advantage** or **disadvantage** regardless of the situation. Follow the standard rules above unless the ability states that it's affects **overcome** advantage or disadvantage.
+
+## Skills
+**Skills** represent a character's ability to perform an action that requires more than a mundane amount of effort or luck. Additionally, **skills** represent a character's ability to overcome, resist, or avoid effects from abilities or traits of other characters or enemies in-game. Skills are generally used in one of three ways: **contests**, **checks**, and **saves**.
+
+[SYSTEM] does not define any set skills for players to use. Instead, **any** action can be the target of a **skill check, save, or contest.**
+
+For example, a thief who is trying to pass as a famous chef in order to gain entry into the King's banquet hall may have to roll a **deception contest** with the guard at the door to see if they can lie about their identity. Assuming the thief passes, they may be escorted into the kitchen in order to cook the King's meal. The thief would then have to roll a **cooking check** to see if they can successfully make a meal as cooking like a professional chef requires an exceptional amount of skill.
+
+### Skill Checks
+
+Skill checks are, by far, the most common way to use skills in regular play. Skill checks are used when attempting to perform any action in-game that requires any talent or luck to accomplish. Skill checks are given a **difficulty level** as detailed in the section on [Difficulty Levels](#difficulty-levels).
+
+### Skill Saves
+
+Certain abilities, attacks, or actions require that the target of the action attempts to resist or avoid its effects. These actions will specify a **difficulty** and an effect if the character **fails** the save.
+
+### Skill Contests
+
+### Advantage and Disadvantage
+
+As mentioned in the [Dice Rolling](#dice-rolling) section, skills can be rolled with **advantage** or **disadvantage**.
+
+**Advantage** is commonly granted by character **traits** or **abilities** and is often targeted at a specific type of skill check, save, or contest. Some examples of this include:
+- Body augmentations that grant a character **advantage** when trying to jump, run, or climb.
+- Mental training that grants a character **advantage** when trying to resist psychic attacks.
+- An item that allows a character to roll with **advantage** when trying to physically restrain other characters (such as when grappling or wrestling).
+
+**Disadvantage** is commonly granted by character **flaws** or other effects/conditions that would hinder the character from performing their skills. Some examples of this include:
+- A character that has taken a vow of silence, giving them **disadvantage** on any attempts to persuade, lie, or otherwise communicate with other characters.  
+- A character and their party have been locked in irons and imprisoned. The character's escape attempts are made with **disadvantage** due to the restraint.
+- Two characters are locked into a magical duel. One character has a **trait** that interferes with their opponents' magic. The opponent rolls all **contests** with **disadvantage**.
+
+Not all rolls are made with advantage and disadvantage and when they should be applied is left to the determination of the GM. Granting advantage and disadvantage should be done at logical times. For example, a player who has an ability granting advantage on skill checks related to understanding alien technology should **not** be given advantage on a check to fly an alien ship just because it uses that technology. They **should**, however, be given advantage when attempting to decipher the controls and relay their purpose to another character who would have **advantage** flying the ship.
+
+### Unconsciousness
+Characters that are unconscious or otherwise **incapacitated** are considered to have automatically failed any skill checks unless stated otherwise.
 
 ## Characters
 Each player in a [SYSTEM] session controls a character. This character is the representation of the player in the game world. Characters in the core rules of [SYSTEM] are intentionally lightweight and designed to serve as a framework for any extensions to [SYSTEM] build upon.
@@ -60,41 +94,22 @@ Characters in [SYSTEM] are all created equally (at first). All characters should
 - Name
 - Age
 - Physical Description
-- Experience Level
+- Customization Points
 
-A player creating a character should define their character's **Name, Age, and Physical Description**. Their character's **Experience Level** will be determined by the GM and the campaign/session difficulty.
+A player creating a character should define their character's **Name, Age, and Physical Description**. Their character's **Customization Points** will be determined by the GM and the campaign/session difficulty.
 
-Depending on the game world and module(s) used, characters can be created in any number of races, religions, species, etc. that provide additional bonuses or character abilities. When this is the case, refer to the rules of that game world or module for any additional steps or notes about character creation.
+Depending on the game world and module(s) used, characters can be created in any number of races, religions, species, etc. that provide additional character **traits** or **abilities**. When this is the case, refer to the rules of that game world or module for any additional steps or notes about character creation.
 
-Additionally, the module(s) or game world in use may define a base set of character traits or abilities to apply during character creation. Refer to the game world or module in use for these rules and follow their additional steps for character creation.
+Additionally, the module(s) or game world in use may define a base set of character **traits** or **abilities** to apply during character creation. Refer to the game world or module in use for these rules and follow their additional steps for character creation.
 
-### Experience Level
+### Customization Points
 
-Characters in [SYSTEM] have an inherent experience level, from **Untrained** to **Legendary**, tied to them. This level depicts how powerful, experienced, and effective they are within the game world. Experience Level directly affects all aspects of a character including their combat effectiveness, abilities/skills, health/physical characteristics, etc.
+At the start of character creation, a GM can grant every player a number of customization points to use to assign **traits** or **abilities** to their characters. Players can choose any number of **traits** or **abilities** for their characters as long as they have enough customization points and/or any prerequisites required by the **trait** or **ability**.
 
-One important factor of experience level is a character's **Proficiencies** and **Advantage**. **Proficiencies** are skills or abilities that a character is well practiced at and able to do with an exceptional amount of skill. Characters can tag skills as **proficient** which gives them **advantage** on rolls with those skills. As a character reaches higher experience levels, their advantage for proficient skills increases, representing their increased ability to perform tasks that they are increasingly better trained in.
+Players can also assign **flaws** to their characters which grant them a number of additional points that they can use for customization. The number of points that can be gained from taking **flaws** is limited to **half** of the number of assigned customization points (rounded down).
 
-A character's level is determined by the amount of in-world experience they possess when compared to the average person. Characters can advance in experience level as they perform more actions in the game world. As a character's experience level climbs, the amount of effort they have to put in to advance further increases, often exponentially.
-
-| Experience Level | Description | Example | Proficiencies | Advantage |
-| :--------- | :---------- | :------ | :------: | :---------: |
-| **Untrained** | An average person with few, if any, special abilities. | Town Member | 0 | - |
-| **Apprentice** | A character who has undergone some basic level of training. A novice in their chosen field. | Wizard's Apprentice | 2 | 1d10 |
-| **Trained** | A character who has completed their training and is thought to be adept at their chosen field. | Professional Soldier | 3 | 2d10 |
-| **Expert** | A character who has gone beyond normal training and has begun to master advanced techniques or teachings in their field. | Mercenary Captain | 5 | 3d10 |
-| **Master** | A character who has mastered everything commonly known or practiced in their field (and many things that are not common knowledge). | Thieves Guild Leader | 8 | 4d10 |
-| **Legendary** | A character who is nearly without equal. Their deeds are what legends are made from. | Godslayer | 13 | 5d10 |
-
-[SYSTEM] does not define a set amount of experience points or numerical levels to assign to characters. Instead, the experience levels provided serve as a guide to determine how powerful characters should be.
-
-> **Note:** Characters do not have to start a campaign or session at a low experience level. Character level is flexible and players should create characters at a level deemed appropriate for the challenge of the campaign or session.
-
-### Physical and Mental Status
-Characters can be given modifications to their physical or mental status. These modifications can be permanent or temporary and may confer various effects including providing advantages or disadvantages to certain abilities or skill checks. Physical or mental statuses can be assigned during character creation at GM discretion and can be added to characters at any time as a result of their actions in the game world. Some examples of physical or mental statuses are:
-
--  Phobias or anxiety that grant disadvantage when making related checks (Swimming across a lake when a character is scared of deep water).
-- Physical augmentations that provide advantage to related checks (Bionic eyes that enable the character to see in much greater detail).
-- Temporary paralysis that stops a character from moving or interacting with the game world.
+### Traits, Abilities, and Flaws
+A major component to any character in [SYSTEM] are the traits abilities that their character has at hand.
 
 ### Death and Incapacitation
 Characters in [SYSTEM] can, and will, die or become permanently incapacitated at some point. The rules for death and permanent incapacitation are:
@@ -113,45 +128,12 @@ Some examples of these rules in action are:
 
 - A warrior is in combat with an ogre. The warrior has **10 health** remaining. The ogre swings its club at the warrior and hits for **11 damage**. The warrior's health is below the **threshold** of 0, so she falls to the blow. The warrior's player makes an **endurance check** and rolls a **3**. Since this is less than **5**, the warrior succumbs to the ogre's damage and dies.
 
-- A bard is on an epic pub crawl with some of his bard friends and has had too much to drink. He is at **9 Drunkenness** before downing another pint of ale, bringing him to **10**, which is the **threshold** for passing out (and ending his night). The bard's player makes an **endurance check** and rolls a **7**. The bard is only **temporarily incapacitated** and his bard friends manage to shake him awake a few minutes later. He comes to a little bit sobered up from his nap and is back to **9 Drunkenness**.
-
-- A street fighter is in a brawl with five opponents. He has been hit too many times and falls unconscious with **0 health**. The player rolls a **9** on their **endurance check** and he's **temporarily incapacitated**. The thugs that knocked him out keep kicking him while he's down and the player is forced to make another **endurance check** for each kick. They succeed on two of them, but on the third kick they roll a **2** and the street fighter is killed.
+- A bard is on an epic pub crawl with some of his bard friends and has had too much to drink. He is at **9 Drunkenness** before downing another pint of ale, bringing him to **10**, which is the **threshold** for passing out (and ending his night). The bard's player makes an **endurance check** and rolls a **7**. The bard is only **temporarily incapacitated** and his bard friends manage to shake him awake a few minutes later. He wakes a little bit sobered up from his nap and is back to **9 Drunkenness**.
 
 > **Note:** The rules for incapacitation and death should **always** apply to player characters, but can conditionally apply to non-player characters at GM discretion.
 
-## Skills and Abilities
-A major component to any character in [SYSTEM] is the skills and abilities that their experience brings to a party. MORE TEXT
-
-#### Proficiency
-
-As a character becomes more experienced, they gain a proficiency with certain skills and abilities. Proficiencies are granted per experience level and add a number of advantage dice specified on the table in the **[Experience Level](#experience-level)** section above. The important part of that table is:
-
-| Experience Level | Proficiencies | Advantage |
-| :--------------: | :-----------: | :-------: |
-| Untrained | 0 | - |
-| Apprentice | 2 | 1d10 |
-| Trained | 3 | 2d10 |
-| Expert | 5 | 3d10 |
-| Master | 8 | 4d10 |
-| Legendary | 13 | 5d10 |
-
-#### Disadvantage
-
-In some situations, a character may be at a disadvantage when trying to perform a skill or action. In this case, they are hampered from success and must roll the specified number of d10s and take the **lowest** value rolled. The table below describes the levels of disadvantage and their effect on the character:
-
-| Penalty Level | Disadvantage | Description |
-| :-----------: | :----------: | :---------- |
-| Minor     | 1d10 | A minor inconvenience that would only hurt an average person. |
-| Major     | 2d10 | A major inconvenience that challenges even the well trained. |
-| Severe    | 3d10 | A near-total prevention of success. |
-| Crippling | 4d10 | An inconvenience that would render a task almost totally impossible for anybody. |
-
-#### Custom Skills
-
-Many modules will define custom skills and abilities to apply to characters. Please refer to the module or modules for information about what custom skills and abilities are available and how they can be used during a campaign or session.
-
-#### Unconsciousness
-Characters that are unconscious or otherwise **incapacitated** are considered to have automatically failed any skill or ability checks unless stated otherwise.
+#### Resurrection/Recovery
+Resurrection or recovery from permanent incapacitation is not always guaranteed, but is possible in certain settings or circumstances. Whether resurrection or recovery from permanent incapacitation is possible is up to the **GM** and/or the **module/setting** in use.
 
 ## Actions
 In [SYSTEM] characters take turns performing actions which can affect themselves, each other, or anything inhabiting the game world. Each turn that a character takes is broken down into three categories: **Primary Actions**, **Secondary Actions**, and **Reactions**.  
