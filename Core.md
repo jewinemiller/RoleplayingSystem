@@ -50,21 +50,25 @@ Additionally, advantage and disadvantage **cancel out**, meaning that a player t
 > **Note:** Some abilities can overcome this cancelling-out effect and force a player to roll with **advantage** or **disadvantage** regardless of the situation. Follow the standard rules above unless the ability states that it's affects **overcome** advantage or disadvantage.
 
 ## Skills
-**Skills** represent a character's ability to perform an action that requires more than a mundane amount of effort or luck. Additionally, **skills** represent a character's ability to overcome, resist, or avoid effects from abilities or traits of other characters or enemies in-game. Skills are generally used in one of three ways: **contests**, **checks**, and **saves**.
+**Skills** represent a character's ability to perform an action that requires more than a mundane amount of effort or luck. Additionally, **skills** represent a character's ability to overcome, resist, or avoid effects from abilities or traits of other characters or enemies in-game. Skills are generally used in one of three ways: **contests**, **checks**, and **saves**. [SYSTEM] does not define any set skills for players to use. Instead, **any** action can be the target of a **skill check, save, or contest** as long as it meets the criteria defined below.
 
-[SYSTEM] does not define any set skills for players to use. Instead, **any** action can be the target of a **skill check, save, or contest.**
+### Skill Contests
 
-For example, a thief who is trying to pass as a famous chef in order to gain entry into the King's banquet hall may have to roll a **deception contest** with the guard at the door to see if they can lie about their identity. Assuming the thief passes, they may be escorted into the kitchen in order to cook the King's meal. The thief would then have to roll a **cooking check** to see if they can successfully make a meal as cooking like a professional chef requires an exceptional amount of skill.
+Skill **contests** are competitions between two characters to determine whether an action succeeds or fails. In a **contest** each character rolls for a skill with the highest rolling character winning. Ties in **contests** go to the character that initiated the action. Characters in a contest **do not** have to roll the same skill as long as the skill they are rolling would be useful in the contest.
+
+> **Example:** A thief wants to break in to the King's banquet and steal the crown jewels. He decides to pose as a famous chef and attempts to bluff his way through the door guard. The thief has **advantage** on all attempts at deception due to his training. The door guard, however, is barely trained and rolls normally to check the identity of the partygoers. The thief rolls an **8** while the guard rolls a **4**. The thief wins the skill contest and is let inside.
 
 ### Skill Checks
 
-Skill checks are, by far, the most common way to use skills in regular play. Skill checks are used when attempting to perform any action in-game that requires any talent or luck to accomplish. Skill checks are given a **difficulty level** as detailed in the section on [Difficulty Levels](#difficulty-levels).
+Skill checks are the most common way to use skills in regular play. Skill checks are used when attempting to perform any action in-game that requires any talent or luck to accomplish. Skill checks are given a **difficulty level** as detailed in the section on [Difficulty Levels](#difficulty-levels). Characters pass their skill check by **meeting or exceeding** the difficulty level of the roll.
+
+> **Example:** The thief/famous chef has bluffed his way into the King's party, but runs into an unexpected problem. The chef in charge of the meal has gone missing and only a famous chef can rescue the banquet. The thief is escorted into the kitchens and thrust in front of a kitchen full of nervous sous chefs. He is forced to make a skill **check** to attempt to cook a meal fit for the King. This thief is no real chef, however, and he fails with a **2**.
 
 ### Skill Saves
 
-Certain abilities, attacks, or actions require that the target of the action attempts to resist or avoid its effects. These actions will specify a **difficulty** and an effect if the character **fails** the save.
+Certain events or actions require that the target of the action attempts to resist or avoid its effects. In this event, the character being targeted will make a **save**. Actions or events that require a save will specify a **difficulty** and an effect if the character **fails** the save. Saves are passed by **meeting or exceeding** the specified difficulty.
 
-### Skill Contests
+> **Example:** The thief's cover has been blown and now he is trying to flee from the castle. Unfortunately, the head of the King's guard is also a powerful mage and attempts to stop the thief by freezing him in place. The thief has to make a **save** to avoid being held in place for the guards to capture. The thief, ever lucky, rolls a **6**, just enough to avoid the effects of the guard's magic. He successfully leaps through an open window and escapes out into the night.
 
 ### Advantage and Disadvantage
 
@@ -109,7 +113,19 @@ At the start of character creation, a GM can grant every player a number of cust
 Players can also assign **flaws** to their characters which grant them a number of additional points that they can use for customization. The number of points that can be gained from taking **flaws** is limited to **half** of the number of assigned customization points (rounded down).
 
 ### Traits, Abilities, and Flaws
-A major component to any character in [SYSTEM] are the traits abilities that their character has at hand.
+
+#### Traits
+
+Text here.
+
+#### Abiltiies
+
+Text here.
+
+#### Flaws
+
+Text here.
+
 
 ### Death and Incapacitation
 Characters in [SYSTEM] can, and will, die or become permanently incapacitated at some point. The rules for death and permanent incapacitation are:
