@@ -133,20 +133,20 @@ Some abilities list a **save** and **difficulty level**. The target(s) of the ab
 
 Abilities may also have a **range** and/or **shape** which determines how far the ability can travel and the area it effects. An ability with a **shape** or **range** that has a continuous effect **does not** require that the target(s) remain within the initial range of the ability for the effect to continue. Abilities specify the number of possible targets in the **range/shape** field.
 
-> **Example Ability**
-**Name:** Fire Blast
-**Cost:** 1 Point
-**Action:** Primary
-**Range:** 10 Meters, 1 Target
-**Effect:** Target takes **2d10** fire damage
+> **Example Ability** <br />
+**Name:** Fire Blast <br />
+**Cost:** 1 Point <br />
+**Action:** Primary <br />
+**Range:** 10 Meters, 1 Target <br />
+**Effect:** You launch a massive blast of fire at an enemy. Target takes **2d10** fire damage.
 
 #### Flaws
 
 Flaws are **passive** character features, similar to traits, which provide mostly negative attributes to a character. By taking flaw(s) during character creation, players can choose to adopt negative traits in exchange for more points to use to gain positive **abilities or traits**. Flaws can range from minor to crippling, awarding a number of creation points according to how impactful they are to the character.
 
-> **Example Flaw:**
-**Name:** Frail
-**Added Points:** 3 Points
+> **Example Flaw:** <br />
+**Name:** Frail <br />
+**Added Points:** 3 Points <br />
 **Effect:** Your character is much more likely to die or become incapacitated. When making an **endurance check**, you roll with **disadvantage**.
 
 
