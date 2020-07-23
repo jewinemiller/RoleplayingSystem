@@ -108,7 +108,7 @@ Additionally, the module(s) or game world in use may define a base set of charac
 
 ### Customization Points
 
-At the start of character creation, a GM can grant every player a number of customization points to use to assign **traits** or **abilities** to their characters. Players can choose any number of **traits** or **abilities** for their characters as long as they have enough customization points and/or any prerequisites required by the **trait** or **ability**.
+At the start of character creation, a GM can grant every player a number of customization points to use to assign **traits** or **abilities** to their characters. Players can choose any number of **traits** or **abilities** for their characters as long as they have enough customization points and/or any prerequisites required by the **trait** or **ability**. Once customization points have been assigned, they cannot be reassigned to other traits or abilities.
 
 Players can also assign **flaws** to their characters which grant them a number of additional points that they can use for customization. The number of points that can be gained from taking **flaws** is limited to **half** of the number of assigned customization points (rounded down).
 
@@ -116,15 +116,38 @@ Players can also assign **flaws** to their characters which grant them a number 
 
 #### Traits
 
-Text here.
+Traits are **passive** features of a character that change the way they interact with the game world and its inhabitants or overcome challenges. Traits can be assigned to a character either during character creation or gained during gameplay as the result of effects in the game world. Traits are considered always **active** and do not require the player to spend any actions to start using. Traits can be lost or temporarily disabled as the result of in-game actions or effects.
+
+> **Example Trait**
+**Name:** Resilient
+**Cost:** 2 Points
+**Effect:** Your character becomes more resistant to damage. Reduce all incoming damage by **1d10**.
 
 #### Abiltiies
 
-Text here.
+Abilities are **active** features of a character that can be used to affect the world around them. Abilities can be assigned to a character during creation, can be granted through the use of an item, or gained during gameplay as the result of effects in the game world. Abilities can be lost or temporarily disabled as the result of in-game actions or effects.
+
+Abilities cost **actions** to use (which are described in detain in the [Actions](#actions) section). All abilities are listed with the type of **action** that is used when activating them.
+
+Some abilities list a **save** and **difficulty level**. The target(s) of the ability must make a **save** that meets or exceeds the listed value. If they fail, the ability takes effect. If the target(s) pass, the ability has **no effect**.
+
+Abilities may also have a **range** and/or **shape** which determines how far the ability can travel and the area it effects. An ability with a **shape** or **range** that has a continuous effect **does not** require that the target(s) remain within the initial range of the ability for the effect to continue. Abilities specify the number of possible targets in the **range/shape** field.
+
+> **Example Ability**
+**Name:** Fire Blast
+**Cost:** 1 Point
+**Action:** Primary
+**Range:** 10 Meters, 1 Target
+**Effect:** Target takes **2d10** fire damage
 
 #### Flaws
 
-Text here.
+Flaws are **passive** character features, similar to traits, which provide mostly negative attributes to a character. By taking flaw(s) during character creation, players can choose to adopt negative traits in exchange for more points to use to gain positive **abilities or traits**. Flaws can range from minor to crippling, awarding a number of creation points according to how impactful they are to the character.
+
+> **Example Flaw:**
+**Name:** Frail
+**Added Points:** 3 Points
+**Effect:** Your character is much more likely to die or become incapacitated. When making an **endurance check**, you roll with **disadvantage**.
 
 
 ### Death and Incapacitation
