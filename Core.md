@@ -118,9 +118,9 @@ Players can also assign **flaws** to their characters which grant them a number 
 
 Traits are **passive** features of a character that change the way they interact with the game world and its inhabitants or overcome challenges. Traits can be assigned to a character either during character creation or gained during gameplay as the result of effects in the game world. Traits are considered always **active** and do not require the player to spend any actions to start using. Traits can be lost or temporarily disabled as the result of in-game actions or effects.
 
-> **Example Trait**
-**Name:** Resilient
-**Cost:** 2 Points
+> **Example Trait** <br />
+**Name:** Resilient <br />
+**Cost:** 2 Points <br />
 **Effect:** Your character becomes more resistant to damage. Reduce all incoming damage by **1d10**.
 
 #### Abiltiies
